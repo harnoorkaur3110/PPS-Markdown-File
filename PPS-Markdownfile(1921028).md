@@ -1,4 +1,4 @@
-﻿![GURU NANAK DEV ENGINEERING COLLEGE](https://gndec.ac.in/)
+https://gndec.ac.in/
 # **Programming for Problem Solving**
 ## **Name:- Ekam Preet Singh**
 ## **CRN:-1921028/1905327**
