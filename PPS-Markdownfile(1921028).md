@@ -1,4 +1,4 @@
-https://gndec.ac.in/
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fgndec.ac.in%2F~icraect2016%2Fimages%2Flogo.jpg&imgrefurl=https%3A%2F%2Fgndec.ac.in%2F~icraect2016%2Fcontact_us.html&docid=i4swKVgWJr7ECM&tbnid=JFcVDY2zdQXI7M%3A&vet=10ahUKEwixj4iA0ITmAhX6yDgGHTJ_CGUQMwhBKAIwAg..i&w=948&h=1040&safe=active&bih=576&biw=1366&q=gndec&ved=0ahUKEwixj4iA0ITmAhX6yDgGHTJ_CGUQMwhBKAIwAg&iact=mrc&uact=8
 # **Programming for Problem Solving**
 ## **Name:- Ekam Preet Singh**
 ## **CRN:-1921028/1905327**
